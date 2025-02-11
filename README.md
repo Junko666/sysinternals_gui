@@ -83,7 +83,7 @@ This GUI application simplifies access to the tools of the Sysinternals Suite fr
 ## Installation
 1. Clone repository:
    ```bash
-   git clone https://github.com/your-username/sysinternals-gui.git
+   git clone https://github.com/Junko666/sysinternals_gui.git
    cd sysinternals-gui
    ```
 2. Create virtual environment (recommended):
@@ -231,7 +231,7 @@ graph TD
    External tool definitions via JSON
 
 ## Contributors
-1. [Junko666]([https://github.com/your-username](https://github.com/Junko666))
+1. [Junko666]([https://github.com/Junko666-username](https://github.com/Junko666))
 2. OpenAi o3 High | Coding
 3. DeepSeek R1 | README.md
    
