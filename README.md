@@ -4,10 +4,14 @@ Sysinternals Suite GUI
 
 Precompiled executable .exe file for windows:
 https://drive.google.com/file/d/1TwRe4EjaihnWGK397xvRIDd5Mr3TiE5B/view?usp=sharing
-Dark-Mode:
+
+
+
+##Dark-Mode:
 ![image](https://github.com/user-attachments/assets/398d0cfd-10d7-4500-8143-218dfbb945a6)
 
-Light-Mode:
+
+##Light-Mode:
 ![image](https://github.com/user-attachments/assets/7d93ce7b-9f05-4b85-812d-d7f1b22a7c9a)
 
 
