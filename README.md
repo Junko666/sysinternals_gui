@@ -1,21 +1,17 @@
-# sysinternals_gui
-Sysinternals Suite GUI
-
+# Sysinternals Suite GUI
 
 Precompiled executable .exe file for windows:
 https://drive.google.com/file/d/1TwRe4EjaihnWGK397xvRIDd5Mr3TiE5B/view?usp=sharing
 
 
 
-##Dark-Mode:
+## Dark-Mode GUI:
 ![image](https://github.com/user-attachments/assets/398d0cfd-10d7-4500-8143-218dfbb945a6)
 
 
-##Light-Mode:
+## Light-Mode GUI:
 ![image](https://github.com/user-attachments/assets/7d93ce7b-9f05-4b85-812d-d7f1b22a7c9a)
 
-
-# Sysinternals Suite GUI
 
 ## Overview
 The Sysinternals Suite GUI is a graphical user interface for the Sysinternals Suite, a collection of system utilities for Windows provided by Microsoft. This GUI allows users to easily browse, start, and manage the various tools in the Sysinternals Suite.
